@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="external_files"
+        path="."/>
+
+    <Connector port="8085" protocol="HTTP/1.1"
+        connectionTimeout="20000"
+        redirectPort="8443"
+        address="0.0.0.0"/>
+</paths>

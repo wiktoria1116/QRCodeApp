@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "001",
+        "path": "http://192.168.0.59:8085/NaszServer/index.html"
+    },
+    {
+        "id": 2,
+        "name": "002",
+        "path": "http://192.168.0.59:8085/NaszServer/index1.html"
+    },
+    {
+        "id": 3,
+        "name": "003",
+        "path": "http://192.168.0.59:8085/NaszServer/index2.html"
+    },
+    {
+        "id": 4,
+        "name": "004",
+        "path": "http://192.168.0.59:8085/NaszServer/index3.html"
+    },
+    {
+        "id": 5,
+        "name": "005",
+        "path": "http://192.168.0.59:8085/NaszServer/index4.html"
+    }
+]
